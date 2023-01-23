@@ -1,7 +1,7 @@
 {
   "name": "01tut",
   "version": "0.1.0",
-  "home":"https;//kollabhargavre.github.io/NelifyDeployment-Blog",
+  "home":"https://kollabhargavre.github.io/NelifyDeployment-Blog",
   "private": true,
   "dependencies": {
     "date-fns": "^2.29.3",
